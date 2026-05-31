@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+output/
+__pycache__/
+*.mp4
+*.mov
+.DS_Store
+venv/
